@@ -18,5 +18,3 @@ SoundFile==0.10.2
 tensorboard==2.11
 torch==1.13.1
 numba==0.48
-joblib~=1.1.0
-decorator==4.3.0
